@@ -76,7 +76,7 @@ Existem alguns recursos que são desencadeados fora do escopo principal da aplic
 
 Tem-se o conhecimento de que existem várias maneiras de tornar essa plataforma real, mas o foco é na mais real. 
 
-A ideia é que seja construída uma arquitetura sólida que consiga propagar informações em alta velocidade. O modelo *conhecido* mais viável *até então* é a implantação de chips como o [ADS58C20][3], das [Texas Instruments][5], nas peças de transporte público. Esses pequenos "acessórios" conseguem receber e transmitir sinal 3G para terceiros receptores, o que fornece a estrutura necessária para *brincar* com pontos de compartilhamento de localização.
+A ideia é que seja construída uma arquitetura sólida que consiga propagar informações em alta velocidade. O modelo *conhecido* mais viável *até então* é a implantação de chips como o [ADS58C20][3], da [Texas Instruments][5], nas peças de transporte público. Esses pequenos "acessórios" conseguem receber e transmitir sinal 3G para terceiros receptores, o que fornece a estrutura necessária para *brincar* com pontos de compartilhamento de localização.
 
 [5]: <http://www.ti.com/>
 
@@ -84,7 +84,8 @@ Utilizaremos *latitude* e *longitude* para mensurar a localização dos transpor
 
 
 
-### Problemas conhecidos
+Problemas conhecidos
+===============
 
 Existem alguns problemas conhecidos no nosso aplicativo que precisam ser curados. São *alguns* deles:
 
@@ -102,7 +103,8 @@ Existem alguns problemas conhecidos no nosso aplicativo que precisam ser curados
 
 
 
-### Vocabulário
+Vocabulário
+===============
 
 -   "*Aplicação*", "*aplicativo*", "*programa*", *"projeto*" em **terceira pessoa do singular** refere-se ao projeto em si; ao mecanismo que será entregue àqueles que precisam ou querem saber onde está o seu ônibus;
 
