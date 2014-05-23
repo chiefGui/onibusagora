@@ -11,7 +11,7 @@ A proposta do **Ônibus Agora** é garantir que as pessoas, através dos seus di
 
 ### Público alvo
 
-O foco principal do aplicativo é tornar mais prática a mobilidade urbana para os habitantes de Blumenau que usam do transporte público. De acordo com o [IBGE][6], *aproximados* 700 (setessentos) ônibus compõem a frota da cidade e é bem complicado mensurar os seus passos – pessoas se atrasam, pessoas saem muito cedo de casa e outras mil coisas por falta de precisão geográfica. Está na hora de mudar.
+O foco principal do aplicativo é tornar mais prática a mobilidade urbana pasera os habitantes de Blumenau que usam do transporte público. De acordo com o [IBGE][6], *aproximados* 700 (setecentos) ônibus compõem a frota da cidade e é bem complicado mensurar os seus passos – pessoas se atrasam, pessoas saem muito cedo de casa e outras mil coisas por falta de precisão geográfica. Está na hora de mudar.
 
 [6]: <http://www.cidades.ibge.gov.br/comparamun/compara.php?lang=&coduf=42&idtema=110&codv=V09&search=santa-catarina|blumenau|sintese-das-informacoes-2012>
 
